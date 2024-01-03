@@ -14,5 +14,4 @@
 ![visual%20studio](https://img.shields.io/badge/visual%20studio-5C2D91.svg?&style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![visual%20studio%20code](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![anaconda](https://img.shields.io/badge/anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-# :mailbox_with_mail: Contacts
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:racing2204@naver.com)](mailto:racing2204@naver.com)
+
